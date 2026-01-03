@@ -30,7 +30,7 @@ include 'ga4.php';
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title id="">(40+) MALI</title>
   <link media="all" rel="stylesheet" type="text/css" href="/sc/1style.css">
-  <link rel="icon" href="https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico">
+  <link rel="icon" href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- This site is optimized with the Yoast SEO -->
 	<meta name="description" content="Ducati also shaved a total of 11 pounds off the latest Multistrada V2 S, coming up with a bike that weighs a claimed 445 pounds dry. The full electronics suite gives riders options for Sport, Touring, Urban, and Enduro riding, and of course, we can’t forget the Ducati Skyhook Suspension EVO on the V2 S.">
 	<meta property="og:locale" content="en_US">
