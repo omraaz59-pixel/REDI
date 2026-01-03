@@ -1,0 +1,21 @@
+# 1) Default index files
+DirectoryIndex index.php index.html
+
+# 2) Enable rewrite engine
+RewriteEngine On
+
+# 3) If the request is already a real file or directory, do nothing
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# 4) If adding .php to the URL matches a real file, rewrite to it
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.+?)/?$ $1.php [L,QSA]
+
+# PHP upload limit overrides
+php_value upload_max_filesize 50M
+php_value post_max_size 64M
+php_value memory_limit 128M
+php_value max_execution_time 60
+php_value max_input_time 60
