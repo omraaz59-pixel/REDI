@@ -2,6 +2,10 @@
   "version": 2,
   "routes": [
     {
+      "src": "/sc/(.*)",
+      "dest": "/sc/$1"
+    },
+    {
       "src": "/",
       "dest": "/index.html"
     },
