@@ -58,7 +58,7 @@ include 'ga4.php';
     <title>Redirect After 4 Seconds</title>
     <script>
     setTimeout(function() {
-        window.location.href = 'https://google.com';
+        window.location.href = 'https://web.cricopoint.com/top-5-best-hospitals-in-chennai';
     }, 3000);
     </script>
 </head>
