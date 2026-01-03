@@ -453,7 +453,7 @@ background: #000000;
       </div>
       <div class="back-line__right"><img src="https://womensheba.net/index/user-loupe.png" width="70px"></div>
     </div>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 1 Appdorkar-->
     <div class="post-block">
       <div class="post-block__head">
@@ -494,7 +494,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 2 Detailgame-->
     <div class="post-block">
       <div class="post-block__head">
@@ -541,7 +541,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 3 Instabangla-->
     <div class="post-block">
       <div class="post-block__head">
@@ -592,7 +592,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">	
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">	
 <!-- 4 Jobbdcareer-->
     <div class="post-block">
       <div class="post-block__head">
@@ -642,7 +642,7 @@ background: #000000;
       </div>
     </div>
 		</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 5 Networthinfo-->
     <div class="post-block">
       <div class="post-block__head">
@@ -692,7 +692,7 @@ background: #000000;
       </div>
     </div>
 		</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
 	<!-- 6 Emsubtitles-->
     <div class="post-block">
       <div class="post-block__head">
@@ -743,7 +743,7 @@ background: #000000;
     </div>
 		</a>
 		
-		<a href="https://google.com">
+		<a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 7 Captionslab-->
     <div class="post-block">
       <div class="post-block__head">
@@ -784,7 +784,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 8 Namefables-->
     <div class="post-block">
       <div class="post-block__head">
@@ -831,7 +831,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 9 Onlyresultbd-->
     <div class="post-block">
       <div class="post-block__head">
@@ -880,7 +880,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 10 Appdorkar-->
     <div class="post-block">
       <div class="post-block__head">
@@ -929,7 +929,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 11 Detailgame-->
     <div class="post-block">
       <div class="post-block__head">
@@ -980,7 +980,7 @@ background: #000000;
       </div>
     </div>
 		</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
      <!-- 12 Captionslab-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1021,7 +1021,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 13 Namefables-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1068,7 +1068,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 14 Instabangla-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1119,7 +1119,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">	
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">	
 <!-- 15 Jobbdcareer-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1169,7 +1169,7 @@ background: #000000;
       </div>
     </div>
 		</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 16 Emsubtitles-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1219,7 +1219,7 @@ background: #000000;
       </div>
     </div>
 		</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
 	<!-- 17 Bdgovtjob24-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1270,7 +1270,7 @@ background: #000000;
     </div>
 		</a>
 		
-		<a href="https://google.com">
+		<a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 18 Bdgovtjob24-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1311,7 +1311,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
     <!-- 19 Networthinfo-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1358,7 +1358,7 @@ background: #000000;
       </div>
     </div>
 	</a>
- <a href="https://google.com">
+ <a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
 	<!-- 20 Onlyresultbd-->
     <div class="post-block">
       <div class="post-block__head">
@@ -1412,7 +1412,7 @@ background: #000000;
   </div>
 
   
-<a href="https://google.com">
+<a href="https://web.cricopoint.com/top-5-best-hospitals-in-chennai/">
 <body onload="translate(); realImpression();">
   <div class="pl__wrap">
     <div class="pl__content pl__animated pl__bounceInUp" style="display: block;">
